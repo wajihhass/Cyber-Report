@@ -10,17 +10,9 @@
 
 ### Q1. Specifically, how is this type of attack conducted?
 
-By wrapping text in between three backquotes -- '`', not single quotations -- and a next line, you can make text appear in a box like most of my syntax examples are seen below.
+Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.
 
-If you add a language, like python, or java, or javascript, etc immediately following the first set of three backquotes, not only will the text go into its own box but it will also get highlighted according to the language you chose, as seen below
 
-Real Example using python:
-
-```python
-def addOne(x):
-    x+1
-    return x
-```
 
 ***
 
