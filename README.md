@@ -50,7 +50,7 @@ The most common example can be found in bulletin-board websites which provide we
 ***
 # Cybersecurity Current Event Report
 ***
-# 2016 Presidential Campaign Hacking Fast Facts
+## 2016 Presidential Campaign Hacking Fast Facts
 ### Q1. What type of attack was this?
 
 The hacking incidents during the 2016 presidential race between Donald Trump and Hillary Clinton. 
