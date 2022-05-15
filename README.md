@@ -20,24 +20,24 @@ An attacker can use XSS to send a malicious script to an unsuspecting user. The 
 ***
 ***
 ### Q3. How can this type of attack be defended against?
-1. it’s crucial that you turn off HTTP TRACE support on all web servers. An attacker can steal cookie data via Javascript even when document.cookie is disabled or not supported by the client
+#### 1. it’s crucial that you turn off HTTP TRACE support on all web servers. An attacker can steal cookie data via Javascript even when document.cookie is disabled or not supported by the client
 
-2. Framework Security
+#### 2. Framework Security
 Fewer XSS bugs appear in applications built with modern web frameworks. These frameworks steer developers towards good security practices and help mitigate XSS by using templating, auto-escaping, and more. That said, developers need to be aware of problems that can occur when using frameworks insecurely such as:
 
-a. escape hatches that frameworks use to directly manipulate the DOM
+##### a. escape hatches that frameworks use to directly manipulate the DOM
 
-b. React’s dangerouslySetInnerHTML without sanitising the HTML
+##### b. React’s dangerouslySetInnerHTML without sanitising the HTML
 
-c. React cannot handle javascript: or data: URLs without specialized validation
+##### c. React cannot handle javascript: or data: URLs without specialized validation
 
-d. Angular’s bypassSecurityTrustAs* functions
+##### d. Angular’s bypassSecurityTrustAs* functions
 
-e. Template injection
+##### e. Template injection
 
-g. Out of date framework plugins or components
+##### f. Out of date framework plugins or components
 
-3. Each variable in a web application needs to be protected. Ensuring that all variables go through validation and are then escaped or sanitized is known as perfect injection resistance. Any variable that does not go through this process is a potential weakness
+#### 3. Each variable in a web application needs to be protected. Ensuring that all variables go through validation and are then escaped or sanitized is known as perfect injection resistance. Any variable that does not go through this process is a potential weakness
 
 
 ***
