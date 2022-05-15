@@ -69,6 +69,6 @@ June 14, 2016 - The Washington Post reports hackers working for the Russian gove
 I think using VPN could prevent this attack and using the ssl protocol to add more security to the connection
 
 ***
-# 350 million customer details leaked in Broadvoice scandal
+## 350 million customer details leaked in Broadvoice scandal
 ### Q1. What type of attack was this?
 A huge data breach at US VoiP provider Broadvoice has exposed more than 350 million customer records, including names, phone numbers and even call transcripts. 
