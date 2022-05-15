@@ -66,6 +66,7 @@ June 14, 2016 - The Washington Post reports hackers working for the Russian gove
 ***
 
 ### Q4. Were there security measures that could have been taken in order to prevent this attack?
+I think using VPN could prevent this attack and using the ssl protocol to add more security to the connection
 
 
 
