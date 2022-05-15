@@ -8,7 +8,7 @@
 
 ***
 
-### Adding Code and syntax highlighting
+### Q1. Specifically, how is this type of attack conducted?
 
 By wrapping text in between three backquotes -- '`', not single quotations -- and a next line, you can make text appear in a box like most of my syntax examples are seen below.
 
