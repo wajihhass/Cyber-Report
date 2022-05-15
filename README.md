@@ -71,4 +71,19 @@ I think using VPN could prevent this attack and using the ssl protocol to add mo
 ***
 ## 350 million customer details leaked in Broadvoice scandal
 ### Q1. What type of attack was this?
-A huge data breach at US VoiP provider Broadvoice has exposed more than 350 million customer records, including names, phone numbers and even call transcripts. 
+A huge data breach at US VoiP provider. 
+***
+### Q2. How was the vulnerability discovered?
+According to security researchers, a configuration error made it easy to access 10 databases belonging to the company. The discovery of the leak was made by Bob Diachenko, a security consultant, in collaboration with Comparitech, a technology research firm.
+
+The leak is particularly concerning for two reasons. Firstly, the exposed call transcripts include voicemails left with medical outlets and financial services firms, representing a significant privacy breach. Secondly, the leaking of personally identifiable information could be put to use by cyberattackers in follow-up phishing campaigns. 
+We've put together a list of the best password managers out there
+The best antivirus rescue disks
+Also, check out our analysis of whether paid or free antivirus is right for you
+
+***
+### Q3. How were the attackers able to exploit the vulnerability
+ Broadvoice has exposed more than 350 million customer records, including names, phone numbers and even call transcripts.
+ 
+ ### Q4. Were there security measures that could have been taken in order to prevent this attack?
+I think using VPN could prevent this attack and using the ssl protocol to add more security to the connection
