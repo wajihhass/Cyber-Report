@@ -1,7 +1,7 @@
 # Cyber-Report
 # Cyber Strategies Report
 
-Markdown is a writing tool that allows you to write plain text whilst tagging your formattings quickly
+## Cross Site Scripting (XSS)
 
 ***
 
