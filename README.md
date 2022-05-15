@@ -63,4 +63,11 @@ The FBI contacts the Democratic National Committee’s help desk, cautioning the
 
 ### Q3. How were the attackers able to exploit the vulnerability
 June 14, 2016 - The Washington Post reports hackers working for the Russian government accessed the DNC’s computer system, stealing oppositional research on Trump and viewing staffers’ emails and chat exchanges. The Kremlin, however, denies that the government was linked to the hack and a US official tells CNN that investigators have not yet concluded that the cyberattack was directed by the Russian government.
-*** 
+***
+
+### Q4. Were there security measures that could have been taken in order to prevent this attack?
+
+
+
+
+***
