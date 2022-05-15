@@ -1,10 +1,10 @@
 # Cyber-Report
 # Cyber Strategies Report
 
-### Centralized
+
 ## Cross Site Scripting (XSS)
 
-### Decentralized
+
 
 ***
 
