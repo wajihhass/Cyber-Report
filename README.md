@@ -53,6 +53,14 @@ The most common example can be found in bulletin-board websites which provide we
 ***
 ### Q1. What type of attack was this?
 
-Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious scripts are injected into otherwise benign and trusted websites. XSS attacks occur when an attacker uses a web application to send malicious code, generally in the form of a browser side script, to a different end user. Flaws that allow these attacks to succeed are quite widespread and occur anywhere a web application uses input from a user within the output it generates without validating or encoding it.
+The hacking incidents during the 2016 presidential race between Donald Trump and Hillary Clinton. 
 
+*** 
+ ### Q2. How was the vulnerability discovered?
+The FBI contacts the Democratic National Committee’s help desk, cautioning the IT department that at least one computer has been compromised by Russian hackers. May-June 2016 - The hackers steal thousands of emails from the DNC server and begin to conceal their efforts. 
+
+*** 
+
+### Q3. How were the attackers able to exploit the vulnerability
+June 14, 2016 - The Washington Post reports hackers working for the Russian government accessed the DNC’s computer system, stealing oppositional research on Trump and viewing staffers’ emails and chat exchanges. The Kremlin, however, denies that the government was linked to the hack and a US official tells CNN that investigators have not yet concluded that the cyberattack was directed by the Russian government.
 *** 
